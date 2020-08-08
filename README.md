@@ -18,7 +18,7 @@ For Example :
 - Other Noble Purposes
 
 Stay updated with my blog : 
-https://blueeaglehacks.blogspot.com/2020/05/blue-eagle-multi-os-rat.html
+https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
 
 [![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
 # Support us please 🥰  
