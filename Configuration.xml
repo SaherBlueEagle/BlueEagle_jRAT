@@ -1,1 +1,15 @@
 <config>
+<Start>
+<Standard Version = '1.0'></Standard Version>
+<Update Version = '1.0'></Update Version>
+<Update Version = '1.0'></Update Version>
+<String Values =""
+set Values = "_
+jname=Saher Blue Eagle jRAT
+jupdate=1.0
+jversion=1.0
+joptions=None
+jupdatestatus=Crtical
+              _"></String>
+<End>
+</config>
