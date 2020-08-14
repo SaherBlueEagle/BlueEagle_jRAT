@@ -16,7 +16,7 @@ For Example :
 - School/Institutions , for students
 - Personal Control and File Backup , Make sure no one is using your computer when you are away.
 - Other Noble Purposes
-
+# default logins : admin , admin
 # 🏳 NOTE : make sure the full program directory not contains "space" to make it able to create itself configuration file
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
