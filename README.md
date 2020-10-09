@@ -1,5 +1,6 @@
 # 💿 BlueEagle jRAT V1.0 [Windows RAT / Linux RAT / MAC RAT] 
 # [Windows RAT] [Linux RAT] [MAC RAT] 
+# Updated for working on MAC issues , to start working on MAC , choose port 8080 , else will exit due to MAC restrictions for ports usage (OS issue)
 <p align="center">
 <img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle_jRAT/master/screenshot.png" ><br>
 
