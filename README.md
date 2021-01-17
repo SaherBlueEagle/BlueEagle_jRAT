@@ -27,8 +27,8 @@ For Example :
 - Other Noble Purposes
 # default logins : admin , admin
 # Update : No lag when selecting victim , "About" button was added 
-# Tutorial 1  https://www.youtube.com/watch?v=PpJLlgenwaQ
-# Tutorial 2 https://www.youtube.com/watch?v=KXEG_LfZ-GI
+# Controller On Windows OS Tutorial 1  https://www.youtube.com/watch?v=PpJLlgenwaQ
+# Controller On MAC OS Tutorial 2 https://www.youtube.com/watch?v=KXEG_LfZ-GI
 # 🏳 NOTE : make sure the full program directory not contains "space" to make it able to create itself configuration file
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
