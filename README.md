@@ -13,6 +13,10 @@
 <img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle_jRAT/master/screensj.png" ><br>
 
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle_jRAT/master/jRAT%20on%20MAC.png" ><br>
+
+</p>
 
 this is a cross platform RAT tool (java RAT) / (jRAT) which is { [Windows RAT] [Linux RAT] [MAC RAT] } which is fully programmed in java be a user friendly and easy to use and builds out trojans (.jar) and controls the victims running those trojans on same port at same time ,this tool is fully in java (Client & Server in java) and this tool is now registerd to be free , and on the user responsibility 
 
