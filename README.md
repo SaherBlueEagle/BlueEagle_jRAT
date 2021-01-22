@@ -5,6 +5,8 @@
 # ▶️ NOTE ▶️
 ▶ Watch the tutorials till the end , because of any question submitted about a point was explained in tutorial , will not be answered 
 
+# Support us please 🥰 for more & more  , Even by a follow 😍, Star 😍, this will be highly appreciated , encourge to release some useful sources 🥰 🥰
+
 # 💿  Ver 1.4 Updated for working on MAC issues , For working on MAC : , choose port 8080 , else will exit due to MAC restrictions for ports usage (OS issue)
 # 💿 For working on Linux : open terminal , then change dir to folder release , then "sudo java -jar SBEjRAT.jar" 
 # Next Update Show : https://www.facebook.com/watch/?v=443194090003685
