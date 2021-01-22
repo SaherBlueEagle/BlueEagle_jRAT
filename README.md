@@ -38,10 +38,10 @@ Stay updated with my blog :
 https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
 
 [![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
-# Support us please 🥰  
+# Support us please 🥰  , Even by a follow 😍, Star 😍 , this will be highly appreciated , encourge to release some useful sources 🥰 🥰
 Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
 
 [![Patreaon Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/patreon_button2.png)](https://www.patreon.com/BlueEagle)
-# Support us please 🥰 for more & more  
+# Support us please 🥰 for more & more  , Even by a follow 😍, Star 😍, this will be highly appreciated , encourge to release some useful sources 🥰 🥰
 
 [![Facebook Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/facebook_button.png)](https://www.facebook.com/NsBleeD/posts/)
