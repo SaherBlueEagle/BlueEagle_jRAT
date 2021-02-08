@@ -38,6 +38,10 @@ For Example :
 # 🏳 NOTE : make sure the full program directory not contains "space" to make it able to create itself configuration file
 Stay updated with my blog : 
 https://blueeaglehacks.blogspot.com/2020/08/blue-eagle-java-rat.html
+ 
+# If you like my work, consider buying me a Nescafe coffee Or Energy Drink 🥰 
+
+# Bitcoin : 3LfLEoLpt3XBz7ozwSSsawWSZJruCQSQgx
 
 [![Bitcoin Donate Button](https://raw.githubusercontent.com/SaherBlueEagle/XPR-2020-Free/master/Bitcoin-Donate-button.png)](https://www.facebook.com/NsBleeD/posts/)
 # Support us please 🥰  , Even by a follow 😍, Star 😍 , this will be highly appreciated , encourge to release some useful sources 🥰 🥰
