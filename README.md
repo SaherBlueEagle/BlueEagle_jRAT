@@ -1,7 +1,7 @@
 # 💿 Program Owner , By : SaherBlueEagle
 💿 BlueEagle jRAT V1.0 [Windows RAT / Linux RAT / MAC RAT] 
 [Windows RAT] [Linux RAT] [MAC RAT] 
-# 💿  Ver 1.6 Updated for potential security issues to save users from revrse connections
+# 💿  Ver 1.6 Updated for potential security issues to save users from reverse connections
 # 💿  Ver 1.5 Updated for hacking android , the apk Builder is standlone in zip file provided
 # ▶️ NOTE ▶️
 ▶ Watch the tutorials till the end , because of any question submitted about a point was explained in tutorial , will not be answered 
