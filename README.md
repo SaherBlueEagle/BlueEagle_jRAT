@@ -21,8 +21,7 @@
 
 </p>
 
-[![Facebook Button](https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle-XPR-Open-Source/main/ficon.png)](https://www.facebook.com/search/top?q=saher%20blue%20eagle)
-
+[![Facebook Button](https://raw.githubusercontent.com/SaherBlueEagle/BlueEagle-XPR-Open-Source/main/ficon.png)](https://www.facebook.com/SaherBlueEagle.ghtml)
 
 Facebook : you can easily search facebook using this 3 Word Nickname ;) 
 
